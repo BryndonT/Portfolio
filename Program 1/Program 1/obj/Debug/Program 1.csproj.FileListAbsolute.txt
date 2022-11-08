@@ -1,0 +1,10 @@
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Programs\Program 1\Program 1\Program 1\bin\Debug\Program 1.exe.config
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Programs\Program 1\Program 1\Program 1\bin\Debug\Program 1.exe
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Programs\Program 1\Program 1\Program 1\bin\Debug\Program 1.pdb
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Programs\Program 1\Program 1\Program 1\obj\Debug\Program 1.csprojAssemblyReference.cache
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Programs\Program 1\Program 1\Program 1\obj\Debug\Program_1.Program1.resources
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Programs\Program 1\Program 1\Program 1\obj\Debug\Program_1.Properties.Resources.resources
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Programs\Program 1\Program 1\Program 1\obj\Debug\Program 1.csproj.GenerateResource.cache
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Programs\Program 1\Program 1\Program 1\obj\Debug\Program 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Programs\Program 1\Program 1\Program 1\obj\Debug\Program 1.exe
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Programs\Program 1\Program 1\Program 1\obj\Debug\Program 1.pdb
