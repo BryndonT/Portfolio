@@ -1,0 +1,7 @@
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Labs\Lab6 Assignment\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Labs\Lab6 Assignment\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Labs\Lab6 Assignment\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Labs\Lab6 Assignment\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Labs\Lab6 Assignment\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Labs\Lab6 Assignment\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\User\Documents\SCHOOL\2021 Spring\CIS 199\Labs\Lab6 Assignment\Lab6\Lab6\obj\Debug\Lab6.pdb
